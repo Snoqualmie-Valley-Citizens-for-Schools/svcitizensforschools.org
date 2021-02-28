@@ -47,6 +47,12 @@ paginate: 10
 permalink: /posts/:title/
 sass:
   style: compressed
+social:
+  name: Snoqualmie Valley Citizens for Schools
+  email: svcitizensforschools@gmail.com
+  links:
+    - https://twitter.com/snovalleyc4s
+    - https://www.facebook.com/SnoqualmieValleyCitizensforSchools
 tagline: Promoting public schools in the Snoqualmie Valley
 theme_mode: light
 timezone: America/Los_Angeles
@@ -86,9 +92,3 @@ google_analytics:
   pv:
     enabled: false
 google_site_verification: google_meta_tag_verification
-social:
-  name: Snoqualmie Valley Citizens for Schools
-  email: example@doamin.com             # change to your email address
-  links:
-    - https://twitter.com/snovalleyc4s      # change to your twitter homepage
-    - https://www.facebook.com/SnoqualmieValleyCitizensforSchools
