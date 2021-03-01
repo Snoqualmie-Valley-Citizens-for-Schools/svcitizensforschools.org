@@ -1,5 +1,5 @@
-baseurl: ''
 author: Chris Alef
+baseurl: ''
 collections:
   tabs:
     output: true
@@ -64,7 +64,6 @@ url: 'https://svcs.github.io'
 
 #TODO below this point
 
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
 defaults:
   -
     scope:
