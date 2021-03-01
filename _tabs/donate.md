@@ -1,7 +1,6 @@
 ---
 title: Donate
 icon: fas fa-info
-order: 6
 ---
 SVCS uses its funds to campaign for Snoqualmie Valley School District levy and bond campaigns. We buy signs, mail flyers, and call, email, and text voters to remind them to vote. Please donate to help us pay for these costs.  Your contribution is NOT tax deductible and is subject to public disclosure consistent with the rules of the Washington State Public Disclosure Commission.
 
