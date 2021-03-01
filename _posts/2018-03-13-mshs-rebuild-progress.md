@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mt. Si High School Rebuild Progress
+title:  Mt. Si High School rebuild progress
 date:   2018-03-13
 ---
 The MSHS rebuild is making great progress! Thank you Snoqualmie Valley for your support. Your 2015 bond vote and property taxes make these improvements possible.
