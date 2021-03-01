@@ -15,16 +15,15 @@ layout: default
             {{ page.author | default: site.author }}
           </span>
         </div>
-        <div>
-          <!-- lastmod -->
-          {% if page.last_modified_at %}
-          <span>
-            Updated
-            {% include timeago.html date=page.last_modified_at class="lastmod" tooltip=true %}
-          </span>
-          {% endif %}
-        </div>
-
+        {% if page.last_modified_at %}
+          <div>
+            <!-- lastmod -->
+            <span>
+              Updated
+              {% include timeago.html date=page.last_modified_at class="lastmod" tooltip=true %}
+            </span>
+          </div>
+        {% endif %}
       </div> <!-- .post-meta -->
 
       <div class="post-content">
