@@ -1,8 +1,11 @@
 ---
 layout: page
-# The Home page layout
 ---
+{% if paginator.page == 1 %}
 {{ content }}
+<hr>
+<h1>News</h1>
+{% endif %}
 
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
