@@ -45,6 +45,7 @@ kramdown:
 lang: en-US
 paginate: 5
 permalink: /posts/:title/
+repository: Snoqualmie-Valley-Citizens-for-Schools/Snoqualmie-Valley-Citizens-for-Schools.github.io
 sass:
   style: compressed
 social:
