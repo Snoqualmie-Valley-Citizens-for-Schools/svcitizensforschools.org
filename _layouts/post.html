@@ -10,10 +10,6 @@ layout: default
         <!-- Published date and author -->
         <div>
           {% include timeago.html date=page.date tooltip=true %}
-          by
-          <span class="author">
-            {{ page.author | default: site.author }}
-          </span>
         </div>
         {% if page.last_modified_at %}
           <div>

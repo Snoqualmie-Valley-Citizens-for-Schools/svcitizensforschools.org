@@ -1,4 +1,3 @@
-author: Chris Alef
 baseurl: ''
 collections:
   tabs:
@@ -23,6 +22,11 @@ exclude:
   - gulpfile.js
 github:
   username: calef
+google_analytics:
+  id: ''
+  pv:
+    enabled: false
+google_site_verification: google_meta_tag_verification
 img_cdn: ''
 jekyll-archives:
   enabled: [categories, tags]
@@ -87,8 +91,3 @@ defaults:
       layout: page
       permalink: /:title/
       dynamic_title: true    # Hide title in mobile screens.
-google_analytics:
-  id: ''
-  pv:
-    enabled: false
-google_site_verification: google_meta_tag_verification
