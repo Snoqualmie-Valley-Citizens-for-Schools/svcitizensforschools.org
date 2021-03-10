@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  Mt. Si High School ranks highly on graduation rate
-date:   2018-03-28
+title: Mt. Si High School ranks highly on graduation rate
+date: 2018-03-28
+tags: mshs
+author: Chris Alef
 ---
 "Across King County, a number of school districts posted rates higher than the state average, including Bellevue, Issaquah, Lake Washington, Northshore, Riverview, Snoqualmie Valley and Tahoma — all of which graduated more than 90 percent of the class of 2017.
 
