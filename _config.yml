@@ -1,3 +1,4 @@
+avatar: /assets/img/favicons/android-icon-192x192.png
 baseurl: ''
 collections:
   tabs:
@@ -19,7 +20,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
-  - gulpfile.js
+  - Rakefile
 github:
   username: calef
 google_analytics:
@@ -49,7 +50,7 @@ kramdown:
 lang: en-US
 paginate: 5
 permalink: /posts/:title/
-repository: Snoqualmie-Valley-Citizens-for-Schools/Snoqualmie-Valley-Citizens-for-Schools.github.io
+repository: Snoqualmie-Valley-Citizens-for-Schools/svcs.crickertech.com
 sass:
   style: compressed
 social:
@@ -59,7 +60,7 @@ social:
     - https://twitter.com/snovalleyc4s
     - https://www.facebook.com/SnoqualmieValleyCitizensforSchools
 tagline: Promoting public schools in the Snoqualmie Valley
-theme_mode: light
+theme: jekyll-theme-chirpy
 timezone: America/Los_Angeles
 title: Snoqualmie Valley Citizens for Schools
 toc: true

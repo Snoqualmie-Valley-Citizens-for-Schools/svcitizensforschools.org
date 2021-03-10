@@ -1,8 +1,8 @@
 ---
 title: FAQs
 icon: fas fa-info
+order: 4
 ---
-
 ## 1. What property taxes help pay for schools? ##
 
 About 55 percent of property tax revenues collected in King County help pay for schools. The "State School Fund" component of property taxes is $2.70 per $1000 of assessed value for the 2020 tax year. It partially pays for the state's program for basic education. The state legislature and governor write and sign the laws that set these tax rates. The "School" component of property taxes is $4.25 per $1000 of assessed value. It contains both Snoqualmie Valley School District levies and bonds. See more at [King County 2020 property taxes](https://www.kingcounty.gov/depts/assessor/2020Taxes.aspx).
