@@ -68,7 +68,7 @@ kramdown:
 lang: en-US
 paginate: 5
 permalink: /posts/:title/
-repository: Snoqualmie-Valley-Citizens-for-Schools/svcs.crickertech.com
+repository: Snoqualmie-Valley-Citizens-for-Schools/svcitizensforschools.org
 sass:
   style: compressed
 social:
@@ -85,10 +85,9 @@ title: Snoqualmie Valley Citizens for Schools
 toc: true
 twitter:
   username: snovalleyc4s
+url: 'https://svcitizensforschools.org'
 
 #TODO in order
-
-url: 'https://svcs.crickertech.com' #TODO get approval and register domain svcitizensforschools.org
 google_analytics: #TODO 2
   id: ''
   pv:
