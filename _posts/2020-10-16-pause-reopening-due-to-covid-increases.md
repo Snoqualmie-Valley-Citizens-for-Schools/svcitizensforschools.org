@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pause in Reopening Due to CODID-19 Increases
+title:  Pause in reopening due to CODID-19 increases
 date:   2020-10-16
 tags: covid-19
 author: Chris Alef

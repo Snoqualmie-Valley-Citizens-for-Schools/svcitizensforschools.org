@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome Back First Grade
+title:  Welcome back 1st grade students
 date:   2021-01-29
 tags: covid-19 cves fces nbes oes p3 ses tres
 author: Chris Alef

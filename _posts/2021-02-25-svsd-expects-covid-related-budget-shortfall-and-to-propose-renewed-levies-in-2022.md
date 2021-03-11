@@ -1,6 +1,6 @@
 ---
 layout: post
-title: District Expects COVID-Related Budget Shortfall and to Propose Renewed Levies in 2022
+title: District expects COVID-related budget shortfall and to propose renewed levies in 2022
 date: 2021-02-25
 tags: 2018-levies 2022-levies covid-19
 author: Chris Alef

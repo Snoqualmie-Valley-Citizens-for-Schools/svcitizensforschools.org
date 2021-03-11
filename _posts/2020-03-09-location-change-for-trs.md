@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Location Change for Two Rivers Big Picture School
+title:  Location change for Two Rivers Big Picture School
 date:   2020-03-09
 tags: 2015-bond mshs trs
 author: Chris Alef

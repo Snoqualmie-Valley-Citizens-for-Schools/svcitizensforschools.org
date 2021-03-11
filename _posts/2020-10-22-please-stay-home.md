@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Please Stay Home to Help Us Reopen Schools
+title:  Please stay home to help us reopen schools
 date:   2020-10-22
 image: /assets/img/ICDC.jpg
 tags: covid-19

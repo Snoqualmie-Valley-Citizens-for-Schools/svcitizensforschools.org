@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transition Learning Center Restarting In Person Learning
+title: Transition Learning Center restarting in-person learning
 date: 2020-09-21
 tags: 2018-levies covid-19 tlc
 author: Chris Alef

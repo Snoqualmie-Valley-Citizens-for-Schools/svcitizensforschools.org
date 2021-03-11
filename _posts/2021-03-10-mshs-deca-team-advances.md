@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mount Si DECA Team Advances to International Competition
+title:  Mount Si DECA Team advances to international competition
 date:   2021-03-10
 image: /assets/img/ICDC.jpg
 tags: 2018-levies clubs mshs

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  National Merit Scholar Recognition for 8 MSHS Class of 2021 Students
+title:  National Merit Scholar recognition for 8 Mount Si High School Seniors
 date:   2020-10-01
 tags: 2018-levies mshs trs
 author: Chris Alef

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transition Learning Center Outdoor Learning Moves Indoors, Specialty Classes Return
+title: Transition Learning Center outdoor learning moves indoors, specialty classes return
 date: 2020-10-19
 tags: 2018-levies covid-19 tlc
 author: Chris Alef

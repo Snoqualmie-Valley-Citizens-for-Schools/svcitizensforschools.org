@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Superintendent Manahan to Retire at End of School Year
+title:  Superintendent Manahan to retire at end of school year
 date:   2021-01-19
 author: Chris Alef
 ---

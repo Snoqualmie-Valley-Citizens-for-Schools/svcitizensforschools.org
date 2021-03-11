@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Five Teachers Renew National Boards Certification
+title:  Five teachers renew National Boards Certification
 date:   2020-12-10
 tags: nbes tfms
 author: Chris Alef

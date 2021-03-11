@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome Back Kindergarteners
+title:  Welcome back kindergarteners
 date:   2021-01-19
 tags: covid-19 cves fces nbes oes ses tres
 author: Chris Alef

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SVSD Recognized as 3rd Best School District in Washington
+title: SVSD Recognized as 3rd best school district in Washington
 date: 2018-04-11
 author: Kirk Harris
 ---

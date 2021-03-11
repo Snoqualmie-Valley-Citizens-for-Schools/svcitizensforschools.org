@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome Back Preschoolers
+title:  Welcome back preschoolers
 date:   2020-11-02
 tags: covid-19
 author: Chris Alef

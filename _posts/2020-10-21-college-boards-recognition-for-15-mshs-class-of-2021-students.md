@@ -1,6 +1,6 @@
 ---
 layout: post
-title: College Boards Recognition for 15 MSHS Class of 2021 Students
+title: College Boards recognition for 15 Mount Si seniors
 date: 2020-10-21
 tags: 2018-levies mshs
 author: Chris Alef
