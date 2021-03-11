@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mt. Si High School Ranks Highly on Graduation Rate
+title: Mount Si High School Ranks Highly on Graduation Rate
 date: 2018-03-28
 tags: mshs
 author: Chris Alef

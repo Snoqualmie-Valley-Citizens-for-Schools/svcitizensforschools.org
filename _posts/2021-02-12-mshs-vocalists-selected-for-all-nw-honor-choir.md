@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mt. Si Vocalists Selected for the All-Northwest Honor Choir
+title:  Mount Si Vocalists Selected for the All-Northwest Honor Choir
 date:   2021-02-12
 tags: 2018-levies mshs music
 image: /assets/img/all-nw-choir.jpg
