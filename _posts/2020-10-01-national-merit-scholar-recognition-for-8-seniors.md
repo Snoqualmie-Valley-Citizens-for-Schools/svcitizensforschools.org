@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  National Merit Scholar recognition for 8 Mount Si High School Seniors
+title:  National Merit Scholar recognition for 8 Mount Si High School seniors
 date:   2020-10-01
 tags: 2018-levies mshs trs
 author: Chris Alef
