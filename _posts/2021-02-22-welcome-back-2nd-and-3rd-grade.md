@@ -2,7 +2,7 @@
 layout: post
 title:  Welcome Back 2nd and 3rd Grade Students
 date:   2021-02-22
-tags: cves fces nbes oes p3 ses tres covid-19
+tags: covid-19 cves fces nbes oes p3 ses tres
 image: /assets/img/003aIMG_3552.JPG
 author: Chris Alef
 ---

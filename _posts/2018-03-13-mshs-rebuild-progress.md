@@ -6,7 +6,7 @@ image: /assets/img/mshs-construction-01.jpg
 tags: 2015-bond mshs
 author: Kirk Harris
 ---
-The MSHS rebuild is making great progress! Thank you Snoqualmie Valley for your support. Your 2015 bond vote and property taxes make these improvements possible.
+The Mt. Si High School rebuild is making great progress! Thank you Snoqualmie Valley for your support. Your 2015 bond vote and property taxes make these improvements possible.
 
 ![](/assets/img/mshs-construction-01.jpg)
 ![](/assets/img/mshs-construction-02.jpg)
