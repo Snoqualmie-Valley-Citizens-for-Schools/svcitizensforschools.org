@@ -16,6 +16,8 @@ Seven Mount Si High School students were selected as part of the National Associ
 * Savonnah Mitchell - NAfME All-Northwest Mixed Choir - Soprano 2
 * Mia Stewart - NAfME All-Northwest Mixed Choir - Soprano 1
 
+Sports and activities are not part of state basic education and are paid for by local levies and fees.
+
 Read more on the [SVSD website](https://www.svsd410.org/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=39&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=28097&PageID=1).
 
 ![Ella Andersen, Nina Andersen, Maryann Bailey, Kayla Helman, Skylar Markley, Savonnah Mitchell, Mia Stewart](/assets/img/all-nw-choir.jpg)
