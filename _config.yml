@@ -46,6 +46,10 @@ exclude:
   - README.md
 github:
   username: calef
+google_analytics:
+  id: 'UA-192044364-1'
+  pv:
+    enabled: false
 img_cdn: ''
 jekyll-archives:
   enabled: [categories, tags]
@@ -86,10 +90,3 @@ toc: true
 twitter:
   username: snovalleyc4s
 url: 'https://svcitizensforschools.org'
-
-#TODO in order
-google_analytics: #TODO 2
-  id: ''
-  pv:
-    enabled: false
-google_site_verification: google_meta_tag_verification #TODO 3
