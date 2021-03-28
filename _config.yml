@@ -34,6 +34,7 @@ defaults:
       layout: page
       permalink: /:title/
       dynamic_title: true    # Hide title in mobile screens.
+      icon: fas fa-info
 description: Snoqualmie Valley Citizens for Schools, a nonprofit 501(c)(4) organization that promotes public schools in the Snoqualmie Valley.
 disqus:
   comments: false  # boolean type, the global switch for posts comments.

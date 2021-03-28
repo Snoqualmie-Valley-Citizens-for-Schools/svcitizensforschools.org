@@ -1,6 +1,5 @@
 ---
 title: FAQs
-icon: fas fa-info
 order: 4
 ---
 ## 1. What property taxes help pay for schools? ##

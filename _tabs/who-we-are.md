@@ -1,6 +1,5 @@
 ---
 title: Who We Are
-icon: fas fa-info
 order: 1
 ---
 Snoqualmie Valley Citizens for Schools is a non-profit 501(c)4 social welfare group. We are comprised entirely of volunteer parents and community members.
