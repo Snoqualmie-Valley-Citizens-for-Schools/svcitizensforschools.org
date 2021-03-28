@@ -1,10 +1,10 @@
 backend:
   name: github
-  repo: Snoqualmie-Valley-Citizens-for-Schools/Snoqualmie-Valley-Citizens-for-Schools.github.io
+  repo: Snoqualmie-Valley-Citizens-for-Schools/svcitizensforschools.org
   branch: main
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'posts'
+    label: 'Posts'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -14,6 +14,30 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      -
+        label: Tags
+        name: tags
+        widget: select
+        multiple: true
+        options:
+          - 2015-bond
+          - 2018-levies
+          - 2022-levies
+          - ckms
+          - clubs
+          - covid-19
+          - cves
+          - fces
+          - mshs
+          - music
+          - nbes
+          - oes
+          - p3
+          - ses
+          - sports
+          - tfms
+          - tlc
+          - tres
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'tabs'
     label: 'Tabs'
@@ -22,9 +46,9 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Order', name: 'order', widget: 'number' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 media_folder: 'assets/uploads'
 public_folder: "/assets/uploads"
-site_url: https://svcs.crickertech.com
+site_url: https://svcitizensforschools.org

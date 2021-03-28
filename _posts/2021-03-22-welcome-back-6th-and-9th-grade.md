@@ -1,8 +1,11 @@
 ---
-layout: post
 title:  Welcome back 6th and 9th grade students
 date:   2021-03-22
-tags: covid-19 mshs ckms tfms
+tags:
+  - covid-19
+  - mshs
+  - ckms
+  - tfms
 author: Chris Alef
 ---
 Today SVSD welcomed back 6th and 9th grade students that opted to return to school for hybrid instruction.

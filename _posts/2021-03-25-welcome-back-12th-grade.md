@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  Welcome back 12th grade students
 date:   2021-03-25
-tags: covid-19 mshs
+tags:
+  - covid-19
+  - mshs
 author: Chris Alef
 ---
 Today SVSD welcomed back 12th grade students that opted to return to school for hybrid instruction.
