@@ -39,6 +39,7 @@ collections:
           - tfms
           - tlc
           - tres
+      - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'tabs'
     label: 'Tabs'
