@@ -3,6 +3,7 @@ layout: post
 title: SVSD selects new superintendent
 date: 2021-04-01T18:48:45.838Z
 image: /assets/uploads/lance-gibbon-portrait-cropped-2.jpg
+author: Chris Alef
 tags:
   - 2022-levies
   - covid-19
@@ -21,7 +22,7 @@ Dr. Lance Gibbon will be the third Snoqualmie Valley superintendent in 3 years f
 * Administrators are demoralized by another superintendent transition.
 * The district has struggled to maintain reliable bus transportation as the chronic shortage of bus drivers has become critical during the pandemic.
 * Reduced substitute teacher availability has resulted in district administrators substituting for ill teachers recovering from COVID vaccinations.
-* Despite following health department guidance, the [Mount Si High School football team experienced a coronavirus outbreak](/posts/covid-outbreak-at-football-game-ends-season/) that sicked five and prematurely ended their season.
+* Despite following health department guidance, the [Mount Si High School football team experienced a coronavirus outbreak](/posts/covid-outbreak-at-football-game-ends-season/) that sickened five and prematurely ended their season.
 
 Collectively, the Snoqualmie Valley School District community is making the best of a very challenging situation, but the stresses and challenges are exhausting. Dr. Gibbon will play a critical role in leading the transition of the Snoqualmie Valley School District community out of this challenging phase and back to its strong performance prior to the pandemic. In February 2022, Snoqualmie Valley residents will vote to renew critical local levies to fund district operations. Dr. Gibbon led Oak Harbor School District to the successful passage of their [replacement levies](https://www.ohsd.net/levy) in February with [55% of the vote](https://www.whidbeynewstimes.com/news/oak-harbor-schools-levy-passing-in-first-vote-counts/).
 
