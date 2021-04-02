@@ -2,7 +2,7 @@
 layout: post
 title: 2021 Snoqualmie Valley Schools Foundation Educators of the Year
 date: 2021-04-02T21:48:43.141Z
-image: /assets/uploads/a68de0_bfc25a9c94824c0395e034696c3326f3~mv2.webp
+image: /assets/uploads/a68de0_bfc25a9c94824c0395e034696c3326f3-mv2.webp
 tags:
   - mshs
   - nbes
