@@ -3,7 +3,8 @@ layout: post
 title: SVSD making progress reopening
 date: 2021-03-21
 image: /assets/74f6d54b6c0a9e707282234fce2087b3.jpg
-tags: covid-19
+tags:
+  - covid-19
 author: Chris Alef
 ---
 Snoqualmie Valley School District (SVSD) had the third highest in person attendance amongst the 18 King County school districts as of the most recently available data from the week of March 8. SVSD was one of only six King County districts with more than 25% of students in person at any point in the week. Enumclaw School District reported 3195 of 3912 (81.7%), Skykomish School District reported 26 of 55 (47%), and SVSD reported 2610 of 6550 (39.8%) students in person at any point in the week.
