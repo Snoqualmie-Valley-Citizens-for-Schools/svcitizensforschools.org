@@ -2,7 +2,7 @@
 layout: post
 title: Lesley Pace and Kayla Stoll become National Board Certified Teachers
 date: 2021-04-02T06:48:33.414Z
-image: /assets/board-certified-01.jpg
+image: /assets/upload/board-certified-01.jpg
 tags:
   - p3
   - nbes
@@ -14,4 +14,4 @@ The National Research Council recognizes National Board Certification for its im
 
 For more information, visit [Washington’s OSPI NBCT site](https://www.k12.wa.us/certification/national-board-certified-teachers/washington-state-national-board-certification-nbct-spotlight).
 
-![Lesley Pace and Kayla Stoll](/assets/board-certified-01.jpg)
+![Lesley Pace and Kayla Stoll](/assets/upload/board-certified-01.jpg)
