@@ -7,7 +7,7 @@ end
 
 desc "Clean up"
 task :clean do
-  sh "rm -rf ./_site ./.jekyll-cache ./.jekyll-metadata"
+  sh "bundle exec jekyll clean"
 end
 
 desc "Start up the site"
