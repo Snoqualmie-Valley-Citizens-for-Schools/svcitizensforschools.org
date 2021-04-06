@@ -1,9 +1,4 @@
-avatar: /assets/img/favicons/android-icon-192x192.png
 baseurl: ''
-collections:
-  tabs:
-    output: true
-    sort_by: order
 compress_html:
   clippings: all
   comments: all
@@ -16,28 +11,9 @@ defaults:
   -
     scope:
       path: ''          # An empty string here means all files in the project
-      type: posts
     values:
       layout: post
-      comments: true    # Enable comments in posts.
-      toc: true         # Display TOC column in posts.
-  -
-    scope:
-      path: _drafts
-    values:
-      comments: false
-  -
-    scope:
-      path: ''
-      type: tabs             # see `site.collections`
-    values:
-      layout: page
-      permalink: /:title/
-      dynamic_title: true    # Hide title in mobile screens.
-      icon: fas fa-info
-description: Snoqualmie Valley Citizens for Schools, a nonprofit 501(c)(4) organization that promotes public schools in the Snoqualmie Valley.
-disqus:
-  comments: false  # boolean type, the global switch for posts comments.
+description: Snoqualmie Valley Citizens for Schools is a nonprofit 501(c)(4) organization that promotes public schools in the Snoqualmie Valley.
 exclude:
   - .tm_properties
   - Gemfile
@@ -45,13 +21,7 @@ exclude:
   - LICENSE
   - Rakefile
   - README.md
-github:
-  username: calef
-google_analytics:
-  id: 'UA-192044364-1'
-  pv:
-    enabled: false
-img_cdn: ''
+google_analytics_ua: 'UA-192044364-1'
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
@@ -71,8 +41,14 @@ kramdown:
       line_numbers: true
       start_line: 1
 lang: en-US
-paginate: 5
+paginate: 6
 permalink: /posts/:title/
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
 repository: Snoqualmie-Valley-Citizens-for-Schools/svcitizensforschools.org
 sass:
   style: compressed
@@ -83,11 +59,9 @@ social:
     - https://twitter.com/snovalleyc4s
     - https://www.facebook.com/SnoqualmieValleyCitizensforSchools
 tagline: Promoting public schools in the Snoqualmie Valley
-theme: jekyll-theme-chirpy
-theme_mode: light
+theme: uswds-jekyll
 timezone: America/Los_Angeles
 title: Snoqualmie Valley Citizens for Schools
-toc: true
 twitter:
   username: snovalleyc4s
 url: 'https://svcitizensforschools.org'

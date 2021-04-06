@@ -1,0 +1,18 @@
+type: slim
+last_updated: false
+contact:
+  social_links:
+    - text: Facebook
+      href: https://www.facebook.com/SnoqualmieValleyCitizensforSchools
+      external: true
+      type: facebook
+    - text: Twitter
+      href: https://twitter.com/snovalleyc4s
+      external: true
+      type: twitter
+    - text: RSS Feed
+      href: /feed.xml
+      type: rss
+  contact_links:
+    - text: svcitizensforschools@gmail.com
+      href: mailto:svcitizensforschools@gmail.com

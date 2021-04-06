@@ -1,0 +1,28 @@
+---
+layout: page
+---
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col">
+    <h3 class="site-preview-heading">Posts</h3>
+    <ul class="usa-card-group">
+      {% for post in page.posts %}
+        <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+          <div class="usa-card__container">
+            <header class="usa-card__header">
+              <h2 class="usa-card__heading"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+              <time datetime="{{ post.date | date: '%F' }}">{{ post.date | date: '%b %e, %Y' }}</time>
+            </header>
+            <div class="usa-card__media">
+              <div class="usa-card__img">
+                <img src="{% if post.image %}{{ post.image }}{% else %}/assets/img/little-professor.jpg{% endif %}" alt="{{ post.title }}">
+              </div>
+            </div>
+            <div class="usa-card__body">
+              <p>{{ post.content | markdownify | strip_html | truncate: 200 }}</p>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

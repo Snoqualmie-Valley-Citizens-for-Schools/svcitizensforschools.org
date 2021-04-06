@@ -1,0 +1,11 @@
+primary:
+  - text: Home
+    href: /
+  - text: Who We Are
+    href: /who-we-are/
+  - text: Volunteer
+    href: /volunteer/
+  - text: Donate
+    href: /donate/
+  - text: FAQs
+    href: /faq/

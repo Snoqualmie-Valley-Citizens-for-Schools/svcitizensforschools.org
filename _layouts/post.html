@@ -1,0 +1,65 @@
+---
+layout: page
+main:
+  class: usa-grid usa-section usa-content usa-layout-docs
+---
+<div class="text-thin">
+  <small>
+    by {{page.author}} on 
+    <time datetime="{{ page.date | date: '%F' }}">
+      {{ page.date | date: '%a, %b %e, %Y' }}
+    </time>
+  </small>
+</div>
+<div class="grid-row">
+  <div class="grid-col-fill"></div>
+  <div class="grid-col-auto">
+    {{ content }}
+    {% if page.tags %}
+      <ul class="usa-button-group">
+        <li class="usa-button-group__item">
+          {% for tag in page.tags %}
+            <a href="/tags/{{ tag }}" class="usa-button usa-button--outline">{{ tag }}</a>
+          {% endfor %}
+        </li>
+      </ul>
+    {% endif %}
+  </div>
+  <div class="grid-col-fill"></div>
+</div>
+<br>
+<div class="grid-row">
+  <div class="grid-col-fill"></div>
+  <div class="grid-col-auto">
+    <div class="sharethis-inline-share-buttons"></div>
+  </div>
+  <div class="grid-col-fill"></div>
+</div>
+{% if site.related_posts %}
+  <hr>
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col">
+      <h3 class="site-preview-heading">Related Posts</h3>
+      <ul class="usa-card-group">
+        {% for post in site.related_posts limit: 3 %}
+          <li class="tablet:grid-col-4 usa-card usa-card--header-first">
+            <div class="usa-card__container">
+              <header class="usa-card__header">
+                <h2 class="usa-card__heading"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                <time datetime="{{ post.date | date: '%F' }}">{{ post.date | date: '%b %e, %Y' }}</time>
+              </header>
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  <img src="{% if post.image %}{{ post.image }}{% else %}/assets/img/little-professor.jpg{% endif %}" alt="{{ post.title }}">
+                </div>
+              </div>
+              <div class="usa-card__body">
+                <p>{{ post.content | markdownify | strip_html | truncate: 200 }}</p>
+              </div>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endif %}

@@ -1,8 +1,10 @@
 require 'html-proofer'
 
+task default: "go"
+
 desc "Build the site"
 task build: %w[clean] do
-  sh "JEKYLL_ENV=production bundle exec jekyll build --drafts"
+  sh "JEKYLL_ENV=production bundle exec jekyll build --drafts --lsi"
 end
 
 desc "Clean up"
