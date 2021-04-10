@@ -22,6 +22,8 @@ exclude:
   - Rakefile
   - README.md
 google_analytics_ua: 'UA-192044364-1'
+include:
+  - _headers
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
