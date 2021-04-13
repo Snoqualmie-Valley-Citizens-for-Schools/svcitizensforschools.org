@@ -6,9 +6,9 @@ image: /assets/img/mshs-construction-01.jpg
 tags: 2015-bond mshs
 author: Kirk Harris
 ---
+![Touring the construction site](/assets/img/mshs-construction-01.jpg)
 The Mount Si High School rebuild is making great progress! Thank you Snoqualmie Valley for your support. Your 2015 bond vote and property taxes make the new Mount Si High School possible.
 
-![Touring the construction site](/assets/img/mshs-construction-01.jpg)
 ![Principal Belcher showing off the site](/assets/img/mshs-construction-02.jpg)
 ![Steel work and flooring](/assets/img/mshs-construction-03.jpg)
 ![Court yard](/assets/img/mshs-construction-04.jpg)

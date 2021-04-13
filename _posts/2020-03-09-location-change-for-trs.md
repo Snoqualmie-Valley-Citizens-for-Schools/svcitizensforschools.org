@@ -4,7 +4,10 @@ title:  Location change for Two Rivers Big Picture School
 date:   2020-03-09
 tags: 2015-bond mshs trs
 author: Chris Alef
+image: /assets/img/mshs-sunset.jpg
 ---
+![Two Rivers will relocate to the Mount Si High School campus](/assets/img/mshs-sunset.jpg)
+
 On February 27, the Snoqualmie Valley School Board approved the transition of Two Rivers Big Picture High School to the new Mount Si High School next fall.
 
 The main reason for the move is to help ensure equity and access for our Two Rivers students. The state’s new “Graduation Pathways,” which offer students expanded options for meeting testing requirements for graduation. In the current Two Rivers School location, the school does not have the capacity to provide students the expanded options that can help students meet new state testing requirements. Specifically, moving to Mount Si High School will enable our students to access Career and Technical Education (CTE) coursework pathways and specialized Bridge-to-College courses to meet state testing requirements.

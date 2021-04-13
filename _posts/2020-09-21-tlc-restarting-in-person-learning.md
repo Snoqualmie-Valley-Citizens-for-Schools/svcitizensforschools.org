@@ -4,7 +4,10 @@ title: Transition Learning Center restarting in-person learning
 date: 2020-09-21
 tags: 2018-levies covid-19 tlc
 author: Chris Alef
+image: /assets/img/tlc-outdoor.jpg
 ---
+![Transition Learning Center outdoor education](/assets/img/tlc-outdoor.jpg)
+
 Snoqualmie Valley School District began in-person services at the [Transition Learning Center (TLC)](https://www.svsd410.org/Page/643) on September 21, with outdoor pods. On October 19, TLC is moving indoors for in-person instruction!
 
 TLC is not fully funded as part of state basic education and is partially paid for by local levies.

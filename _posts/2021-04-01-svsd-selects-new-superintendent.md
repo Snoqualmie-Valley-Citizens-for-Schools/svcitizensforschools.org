@@ -8,6 +8,8 @@ tags:
   - 2022-levies
   - covid-19
 ---
+![Dr. Lance Gibbon](/assets/uploads/lance-gibbon-portrait-cropped-2.jpg)
+
 On March 31, the Snoqualmie Valley School District Board of Directors extended an offer to Dr. Lance Gibbon for the open superintendent position. Assuming Dr. Gibbon accepts the position, he brings 29 years of public education experience to the role. Dr. Gibbon previously served in Lake Washington, Anacortes, and Oak Harbor school districts as superintendent, assistant superintendent, elementary principal, assistant principal, professional developer for technology, and elementary music teacher.
 
 Dr. Gibbon spent the last 8 years as superintendent of [Oak Harbor Public Schools](https://www.ohsd.net/). Oak Harbor Public Schools is comparable in size to the Snoqualmie Valley School District. Oak Harbor residents describe Dr. Gibbon as "[ever-present](https://www.whidbeynewstimes.com/news/superintendent-gets-glowing-review-3-3-percent-raise/)" within the schools, engaged in the broader community, goal-oriented in his leadership style, consistent with his follow-through, committed, and "[playful](https://www.youtube.com/watch?v=KYAma-trtU4)".
@@ -25,5 +27,3 @@ Dr. Lance Gibbon will be the third Snoqualmie Valley superintendent in 3 years f
 * Despite following health department guidance, the [Mount Si High School football team experienced a coronavirus outbreak](/posts/covid-outbreak-at-football-game-ends-season/) that sickened five and prematurely ended their season.
 
 Collectively, the Snoqualmie Valley School District community is making the best of a very challenging situation, but the stresses and challenges are exhausting. Dr. Gibbon will play a critical role in leading the transition of the Snoqualmie Valley School District community out of this challenging phase and back to its strong performance prior to the pandemic. In February 2022, Snoqualmie Valley residents will vote to renew critical local levies to fund district operations. Dr. Gibbon led Oak Harbor School District to the successful passage of their [replacement levies](https://www.ohsd.net/levy) in February with [55% of the vote](https://www.whidbeynewstimes.com/news/oak-harbor-schools-levy-passing-in-first-vote-counts/).
-
-![Dr. Lance Gibbon](/assets/uploads/lance-gibbon-portrait-cropped-2.jpg)

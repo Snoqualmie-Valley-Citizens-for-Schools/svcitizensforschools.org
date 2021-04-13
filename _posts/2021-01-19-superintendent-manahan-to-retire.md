@@ -5,6 +5,8 @@ date:   2021-01-19
 author: Chris Alef
 image: /assets/img/RobManahan.webp
 ---
+![Robert Manahan](/assets/img/RobManahan.webp)
+
 Snoqualmie Valley School District Superintendent Robert W. Manahan will retire at the end of this 2020-21 school year. His letter to the community follows:
 
 > January 14, 2021
@@ -30,5 +32,3 @@ Snoqualmie Valley School District Superintendent Robert W. Manahan will retire a
 > Respectfully,
 > 
 > Robert Manahan
-
-![Robert Manahan](/assets/img/RobManahan.webp)
