@@ -17,6 +17,11 @@ task go: %w[clean] do
   sh "bundle exec jekyll serve --livereload"
 end
 
+desc "Optimize images"
+task :optimize do
+  sh "imageoptim '**/*.jpg' '**/*.jpeg'"
+end
+
 desc "deploy to preview"
 task preview_deploy: %w[build] do
   sh "netlify deploy --open"
