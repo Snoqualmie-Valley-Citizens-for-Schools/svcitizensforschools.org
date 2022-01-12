@@ -1,6 +1,10 @@
 ---
 layout: home
 ---
+{% if paginator.page == 1 %}
+  {{content}}
+{% endif %}
+
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
 {% assign posts = "" | split: "" %}
