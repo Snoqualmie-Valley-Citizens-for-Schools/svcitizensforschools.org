@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-archives'
   gem 'classifier-reborn'
+# TODO:  gem 'jekyll-pwa-plugin'
 end
 
 group :test do
